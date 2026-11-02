@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases/tag/v1.3">Скачать APK</a> ·
+  <a href="https://github.com/fixeemixee-droid/volna/releases/tag/v1.3">Скачать APK</a> ·
   <a href="#возможности">Возможности</a> ·
   <a href="#сборка">Сборка</a>
 </p>
