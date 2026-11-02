@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+<title id="title">volna</title><desc id="desc">Музыка в своём ритме. Android-плеер для локальной музыки.</desc>
+<defs><linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111512"/><stop offset="1" stop-color="#273023"/></linearGradient><linearGradient id="label" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d7f2b6"/><stop offset="1" stop-color="#9dbf78"/></linearGradient></defs>
+<rect width="1280" height="400" rx="28" fill="url(#background)"/>
+<circle cx="1030" cy="200" r="177" fill="none" stroke="#405334" stroke-opacity=".4"/>
+<circle cx="1030" cy="200" r="155" fill="#111512"/>
+<circle cx="1030" cy="200" r="65" fill="none" stroke="#34402f" stroke-width="1"/><circle cx="1030" cy="200" r="71" fill="none" stroke="#34402f" stroke-width="1"/><circle cx="1030" cy="200" r="77" fill="none" stroke="#34402f" stroke-width="1"/><circle cx="1030" cy="200" r="83" fill="none" stroke="#34402f" stroke-width="1"/><circle cx="1030" cy="200" r="89" fill="none" stroke="#34402f" stroke-width="1"/><circle cx="1030" cy="200" r="95" fill="none" stroke="#34402f" stroke-width="1"/><circle cx="1030" cy="200" r="101" fill="none" stroke="#34402f" stroke-width="1"/><circle cx="1030" cy="200" r="107" fill="none" stroke="#34402f" stroke-width="1"/><circle cx="1030" cy="200" r="113" fill="none" stroke="#34402f" stroke-width="1"/><circle cx="1030" cy="200" r="119" fill="none" stroke="#34402f" stroke-width="1"/><circle cx="1030" cy="200" r="125" fill="none" stroke="#34402f" stroke-width="1"/><circle cx="1030" cy="200" r="131" fill="none" stroke="#34402f" stroke-width="1"/><circle cx="1030" cy="200" r="137" fill="none" stroke="#34402f" stroke-width="1"/><circle cx="1030" cy="200" r="143" fill="none" stroke="#34402f" stroke-width="1"/><circle cx="1030" cy="200" r="149" fill="none" stroke="#34402f" stroke-width="1"/>
+<circle cx="1030" cy="200" r="55" fill="url(#label)"/>
+<path d="M1006 194v12m12-23v34m12-47v60m12-47v34m12-23v12" stroke="#26361f" stroke-width="5" stroke-linecap="round" fill="none"/>
+<text x="74" y="158" fill="#f1f5ec" font-family="Arial,Helvetica,sans-serif" font-size="92" letter-spacing="7">volna</text>
+<text x="78" y="218" fill="#bdcbb4" font-family="Arial,Helvetica,sans-serif" font-size="31">Музыка в своём ритме.</text>
+<g font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#c0e58d">
+<rect x="78" y="275" width="165" height="42" rx="21" fill="#33412b"/><text x="101" y="302">Android 8.0+</text>
+<rect x="255" y="275" width="207" height="42" rx="21" fill="#33412b"/><text x="278" y="302">Офлайн-музыка</text>
+<rect x="474" y="275" width="188" height="42" rx="21" fill="#33412b"/><text x="498" y="302">Тексты и LRC</text>
+</g></svg>
